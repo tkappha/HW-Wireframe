@@ -43,5 +43,5 @@
 ## Screenshot
 -------------------------------------------------------------------------
 
-![alt text](https://github.com/adam-https://github.com/tkappha/HW-Wireframe/blob/master/Screenshot.jpgp/markdown-here/raw/master/src/common/images/icon48.png "Wirefram Screnshot")
+![alt text](https://github.com/adam-https://github.com/tkappha/HW-Wireframe/blob/master/Screenshot.jpg "Wirefram Screnshot")
 
