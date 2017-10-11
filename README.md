@@ -1,8 +1,9 @@
-#Alt-H1 Homework Assignment:  Building a Wireframe
+# Homework Assignment:  Building a Wireframe
+----------------------------------------------------------
 
-H4 Using HTML/CSS, build a web design skeleton
+ #### Using HTML/CSS, build a web design skeleton
 
-Alt-H2 Additional Specifications
+## Additional Specifications
 
 *Your HTML should have each of the following sections: *
 ----------------------------------------------------------
